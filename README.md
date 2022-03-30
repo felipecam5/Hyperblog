@@ -2,6 +2,7 @@
 El siguiente repositorio fue creado con el proposito de aprender Git y GitHub con el gran freddy del equipo de platzi.
 
 **Table of Contents**
+
 [TOCM]
 
 [TOC]
