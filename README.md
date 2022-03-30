@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Hyperblog Felipe Camacho Hurtado
 El siguiente repositorio fue creado con el proposito de aprender Git y GitHub con el gran freddy del equipo de platzi.
 
@@ -15,3 +16,8 @@ El siguiente repositorio fue creado con el proposito de aprender Git y GitHub co
 ### Imagen de inspiración
 Les quisiera recordar que usted pueden hacer todo lo que se propongan
 ![](https://images7.alphacoders.com/310/thumb-1920-310795.jpg)
+=======
+# Hyperblog
+Un blog increible para el curso de git y github de platzi
+Test de cherry-pick
+>>>>>>> 740b8bb (Cherry-pick)
